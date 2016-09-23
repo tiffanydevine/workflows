@@ -1,0 +1,5 @@
+.DS_Store 
+node modules
+.tmp
+.sass-cacher 
+builds/**/images/*

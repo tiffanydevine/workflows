@@ -1,0 +1,12 @@
+{
+  "name": "workflows",
+  "version": "1.0.0",
+  "description": "setting up with gulp.js git and browserify",
+  "main": "index.js",
+  "repository" : {
+  	"type" : "git", 
+  	"url" : "?.git"
+  },
+  "author": "Tiffany DeVine",
+  "license": "MIT "
+}
