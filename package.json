@@ -3,10 +3,15 @@
   "version": "1.0.0",
   "description": "setting up with gulp.js git and browserify",
   "main": "index.js",
-  "repository" : {
-  	"type" : "git", 
-  	"url" : "?.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tiffanydevine/workflows.git"
   },
   "author": "Tiffany DeVine",
-  "license": "MIT "
+  "license": "MIT ",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.2",
+    "gulp-util": "^3.0.7"
+  }
 }
