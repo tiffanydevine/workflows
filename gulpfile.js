@@ -18,4 +18,5 @@ gulp.task('js', function() {
 	gultil.log('wtf')
 }); 
 
-// go to terminal run $ gulp js
+// go to terminal run $ gulp js. not working right now dont know why 
+
